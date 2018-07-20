@@ -3,6 +3,7 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 
+/** @author gnabit@gnamingo.de */
 public class JTello {
 
 	final public static JTello INSTANCE = new JTello();
